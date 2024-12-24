@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color:#c5aa6a;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.right >a {
+    padding: 2px;
+    margin: 2px;
+}
+
+.left{
+    text-decoration: underline;
+    color: white;
+    font-size: 12px;
+}
